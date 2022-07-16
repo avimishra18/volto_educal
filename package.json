@@ -38,10 +38,12 @@
   },
   "private": true,
   "workspaces": [
-    "src/addons/volto-educal-theme"
+    "src/addons/volto-educal-theme",
+    "src/addons/volto-block-banner"
   ],
   "addons": [
-    "@plone-collective/volto-educal-theme"
+    "@plone-collective/volto-educal-theme",
+    "@plone-collective/volto-block-banner"
   ],
   "jest": {
     "modulePathIgnorePatterns": [

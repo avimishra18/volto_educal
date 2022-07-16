@@ -4,6 +4,9 @@
         "paths": {
             "@plone-collective/volto-educal-theme": [
                 "addons/volto-educal-theme/src"
+            ],
+            "@plone-collective/volto-block-banner": [
+                "addons/volto-block-banner/src"
             ]
         }
     }
