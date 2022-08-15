@@ -7,6 +7,9 @@
             ],
             "@plone-collective/volto-block-banner": [
                 "addons/volto-block-banner/src"
+            ],
+            "@plone-collective/volto-educal-hero-block": [
+                "addons/volto-educal-hero-block/src"
             ]
         }
     }

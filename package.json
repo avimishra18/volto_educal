@@ -39,11 +39,13 @@
   "private": true,
   "workspaces": [
     "src/addons/volto-educal-theme",
-    "src/addons/volto-block-banner"
+    "src/addons/volto-block-banner",
+    "src/addons/volto-educal-hero-block"
   ],
   "addons": [
     "@plone-collective/volto-educal-theme",
-    "@plone-collective/volto-block-banner"
+    "@plone-collective/volto-block-banner",
+    "@plone-collective/volto-educal-hero-block"
   ],
   "jest": {
     "modulePathIgnorePatterns": [
