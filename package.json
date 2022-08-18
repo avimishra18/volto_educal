@@ -43,9 +43,7 @@
     "src/addons/volto-educal-hero-block"
   ],
   "addons": [
-    "@plone-collective/volto-educal-theme",
-    "@plone-collective/volto-block-banner",
-    "@plone-collective/volto-educal-hero-block"
+    "@plone-collective/volto-educal-theme"
   ],
   "jest": {
     "modulePathIgnorePatterns": [
@@ -146,7 +144,7 @@
     "node": "^12 || ^14 || ^16"
   },
   "dependencies": {
-    "@plone/volto": "15.12.1"
+    "@plone/volto": "15.14.0"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
