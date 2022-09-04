@@ -1,1 +1,23 @@
-{}
+{
+  "volto-block-banner": {
+    "url": "git@github.com:collective/volto-block-banner.git",
+    "https": "https://github.com/collective/volto-block-banner.git",
+    "package": "@plone-collective/volto-block-banner",
+    "branch": "main",
+    "path": "src"
+  },
+  "volto-educal-hero-block": {
+    "url": "git@github.com:collective/volto-educal-hero-block.git",
+    "https": "https://github.com/collective/volto-educal-hero-block.git",
+    "package": "@plone-collective/volto-educal-hero-block",
+    "branch": "main",
+    "path": "src"
+  },
+  "volto-educal-theme": {
+    "url": "git@github.com:collective/volto-educal-theme.git",
+    "https": "https://github.com/collective/volto-educal-theme.git",
+    "package": "@plone-collective/volto-educal-theme",
+    "branch": "main",
+    "path": "src"
+  }
+}

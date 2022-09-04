@@ -38,9 +38,7 @@
   },
   "private": true,
   "workspaces": [
-    "src/addons/volto-educal-theme",
-    "src/addons/volto-block-banner",
-    "src/addons/volto-educal-hero-block"
+    "src/addons/*"
   ],
   "addons": [
     "@plone-collective/volto-educal-theme"
